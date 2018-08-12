@@ -4,6 +4,7 @@ Movieql-client
 
 - yarn add react-router-dom apollo-boost react-apollo graphql-tag graphql --save
 - yarn add react-helmet
+- yarn add styled-components styled-reset
 
 
 ## graphql 신택스 사용방법
