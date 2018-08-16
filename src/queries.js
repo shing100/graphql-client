@@ -20,9 +20,9 @@ query getMovieDetails($movieId: Int!){
         rating
         description_intro
         language
-        genres
     }
     suggestions(id: $movieId) {
+        id
         medium_cover_image
         title
         rating
